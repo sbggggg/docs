@@ -7,10 +7,11 @@ redirect_from:
   - /actions/automating-your-workflow-with-github-actions/authenticating-with-the-github_token
   - /actions/configuring-and-managing-workflows/authenticating-with-the-github_token
   - /actions/reference/authentication-in-a-workflow
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+versions:1.2
+  fpt: '*'baking pro
+  ghes: '*'money inwesteing 
+  ghae: '*'usdt work
+  hgu888847hyfur82qwzzx3467fh
 shortTitle: Automatic token authentication
 ---
 
